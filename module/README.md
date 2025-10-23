@@ -19,13 +19,13 @@ This module creates a single GitHub Organization within a given GitHub Enterpris
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.9.0 |
-| <a name="requirement_github"></a> [github](#requirement\_github) | 6.6.0 |
+| <a name="requirement_github"></a> [github](#requirement\_github) | 6.7.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_github"></a> [github](#provider\_github) | 6.6.0 |
+| <a name="provider_github"></a> [github](#provider\_github) | 6.7.0 |
 
 ## Modules
 
@@ -35,8 +35,8 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [github_enterprise_organization.this](https://registry.terraform.io/providers/integrations/github/6.6.0/docs/resources/enterprise_organization) | resource |
-| [github_enterprise.this](https://registry.terraform.io/providers/integrations/github/6.6.0/docs/data-sources/enterprise) | data source |
+| [github_enterprise_organization.this](https://registry.terraform.io/providers/integrations/github/6.7.0/docs/resources/enterprise_organization) | resource |
+| [github_enterprise.this](https://registry.terraform.io/providers/integrations/github/6.7.0/docs/data-sources/enterprise) | data source |
 
 ## Inputs
 

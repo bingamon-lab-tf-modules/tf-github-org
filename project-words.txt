@@ -86,3 +86,5 @@ gitblame
 wakatime
 yzhang
 prek
+SecretSpec
+mktemp

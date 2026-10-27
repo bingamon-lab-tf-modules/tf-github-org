@@ -88,3 +88,6 @@ yzhang
 prek
 SecretSpec
 mktemp
+esac
+tftest
+secops
